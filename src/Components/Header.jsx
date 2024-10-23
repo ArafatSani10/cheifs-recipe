@@ -49,7 +49,7 @@ const Header = () => {
                     <div className="flex items-center gap-4 border bg-[#150B2B0D] rounded-lg w-40 h-11 justify-center">
 
                         <i className="fa-solid fa-magnifying-glass"></i>
-                        <p className="text-xl font-bold">Search</p>
+                        <p className="text-xl font-bold cursor-pointer">Search</p>
 
                     </div>
 
@@ -57,8 +57,6 @@ const Header = () => {
                         <i className="fa-solid fa-user px-4"></i>
                     </div>
                 </div>
-
-
             </div>
         </div>
     );

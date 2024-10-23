@@ -1,7 +1,7 @@
 
     [
         {
-            "recipe_image": "https://example.com/images/chicken_stir_fry.jpg",
+            "recipe_image": "https://i.ibb.co.com/d6rMQVd/delicious-lobster-gourmet-seafood.jpg",
             "recipe_id": "1",
             "recipe_name": "Chicken Stir Fry",
             "short_description": "A quick and easy chicken stir fry with vegetables.",
@@ -17,7 +17,7 @@
             "calories": "320 calories"
         },
         {
-            "recipe_image": "https://example.com/images/spaghetti_bolognese.jpg",
+            "recipe_image": "https://i.ibb.co.com/d6rMQVd/delicious-lobster-gourmet-seafood.jpg",
             "recipe_id": "2",
             "recipe_name": "Spaghetti Bolognese",
             "short_description": "A classic Italian pasta dish with a rich meat sauce.",
@@ -33,7 +33,7 @@
             "calories": "450 calories"
         },
         {
-            "recipe_image": "https://example.com/images/veggie_salad.jpg",
+            "recipe_image": "https://i.ibb.co.com/d6rMQVd/delicious-lobster-gourmet-seafood.jpg",
             "recipe_id": "3",
             "recipe_name": "Veggie Salad",
             "short_description": "A fresh salad loaded with vegetables and a light dressing.",
@@ -49,7 +49,7 @@
             "calories": "150 calories"
         },
         {
-            "recipe_image": "https://example.com/images/pancakes.jpg",
+            "recipe_image": "https://i.ibb.co.com/d6rMQVd/delicious-lobster-gourmet-seafood.jpg",
             "recipe_id": "4",
             "recipe_name": "Fluffy Pancakes",
             "short_description": "Light and fluffy pancakes perfect for breakfast.",
@@ -65,7 +65,7 @@
             "calories": "400 calories"
         },
         {
-            "recipe_image": "https://example.com/images/chocolate_cake.jpg",
+            "recipe_image": "https://i.ibb.co.com/d6rMQVd/delicious-lobster-gourmet-seafood.jpg",
             "recipe_id": "5",
             "recipe_name": "Chocolate Cake",
             "short_description": "A rich and moist chocolate cake for dessert lovers.",
@@ -81,7 +81,7 @@
             "calories": "500 calories"
         },
         {
-            "recipe_image": "https://example.com/images/vegetable_curry.jpg",
+            "recipe_image": "https://i.ibb.co.com/d6rMQVd/delicious-lobster-gourmet-seafood.jpg",
             "recipe_id": "6",
             "recipe_name": "Vegetable Curry",
             "short_description": "A flavorful curry packed with seasonal vegetables.",
