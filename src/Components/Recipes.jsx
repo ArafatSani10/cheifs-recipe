@@ -2,7 +2,7 @@ import { useEffect } from "react";
 import { useState } from "react";
 
 
-const Recipes = () => {
+const Recipes = ({addRecipeToQueue}) => {
 
     let [recipes, setRecipes] = useState([]);
 
@@ -11,7 +11,7 @@ const Recipes = () => {
             .then(res => res.json())
             .then(data => setRecipes(data))
     }, [])
-    console.log(recipes)
+    
 
     return (
         <div className="md:w-2/3">
@@ -47,7 +47,7 @@ const Recipes = () => {
                                     </div>
                                 </div>
                                 <div className="card-actions ">
-                                    <button className="btn bg-green-400 rounded-full px-8 text-xl text-gray-800 mt-6 font-bold">Want To Cook</button>
+                                    <button onClick={()=> addRecipeToQueue(recipe)} className="btn bg-green-400 rounded-full px-8 text-xl text-gray-800 mt-6 font-bold">Want To Cook</button>
                                 </div>
                             </div>
                         </div>)
